@@ -1,7 +1,7 @@
 Olá, eu sou a Eduarda
 
-- 📫 How to reach me: santanaeduarda30@gmail.com
-- 😄 Pronouns: ela/dela
+- Contato: santanaeduarda30@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/eduardasn">
